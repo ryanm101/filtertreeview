@@ -1,0 +1,5 @@
+c:\users\ryanm\documents\visual studio 2010\Projects\FilterTreeView\FilterTreeView\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ryanm\Documents\Visual Studio 2010\Projects\FilterTreeView\FilterTreeView\bin\Debug\FilterTreeView.dll
+C:\Users\ryanm\Documents\Visual Studio 2010\Projects\FilterTreeView\FilterTreeView\bin\Debug\FilterTreeView.pdb
+C:\Users\ryanm\Documents\Visual Studio 2010\Projects\FilterTreeView\FilterTreeView\obj\Debug\FilterTreeView.dll
+C:\Users\ryanm\Documents\Visual Studio 2010\Projects\FilterTreeView\FilterTreeView\obj\Debug\FilterTreeView.pdb
