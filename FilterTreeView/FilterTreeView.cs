@@ -7,8 +7,12 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
+internal class resfinder {}
+
 namespace FilterTreeView
 {
+
+    [ToolboxBitmap(typeof(resfinder), "FilterTreeView.Resources.FilterTreeView.bmp")]
     public partial class FilterTreeView : TreeView
     {
         private TreeNode[] NodesBackup;
